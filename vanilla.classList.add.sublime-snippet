@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.classList.add('${2:class}');
+classList.add('${1:class}');
 ]]></content>
     <tabTrigger>classList.add</tabTrigger>
     <scope>source.js</scope>

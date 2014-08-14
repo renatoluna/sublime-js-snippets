@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.createElement(${2:elem});
+createElement(${1:element});
 ]]></content>
     <tabTrigger>createElement</tabTrigger>
     <scope>source.js</scope>

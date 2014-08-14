@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.getElementById('${2:id}');
+getElementById('${1:id}');
 ]]></content>
     <tabTrigger>getElementById</tabTrigger>
     <scope>source.js</scope>

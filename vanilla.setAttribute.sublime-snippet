@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.setAttribute('${2:attr}', ${3:value});
+setAttribute('${1:attr}', ${2:value});
 ]]></content>
     <tabTrigger>setAttribute</tabTrigger>
     <scope>source.js</scope>

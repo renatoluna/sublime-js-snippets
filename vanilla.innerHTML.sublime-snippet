@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.innerHTML = '${2:elem}';
+innerHTML = '${1:element}';
 ]]></content>
     <tabTrigger>innerHTML</tabTrigger>
     <scope>source.js</scope>

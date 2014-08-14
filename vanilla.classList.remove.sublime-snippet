@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.classList.remove('${2:class}');
+classList.remove('${1:class}');
 ]]></content>
     <tabTrigger>classList.remove</tabTrigger>
     <scope>source.js</scope>

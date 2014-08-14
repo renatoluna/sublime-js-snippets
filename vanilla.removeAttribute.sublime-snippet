@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:document}.removeAttribute('${2:attr}');
+removeAttribute('${1:attr}');
 ]]></content>
     <tabTrigger>removeAttribute</tabTrigger>
     <scope>source.js</scope>
