@@ -1,8 +1,5 @@
-Sublime Text Editor 2 - JavaScript Snippets
-===========================================
-
-JavaScript / JS snippets for your Sublime Text 2 Fu.
-
+JavaScript Snippets
+===================
 
 Install
 -------
