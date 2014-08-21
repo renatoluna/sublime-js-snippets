@@ -6,12 +6,6 @@ JavaScript / JS snippets for your Sublime Text 2 Fu.
 
 Install
 -------
-
-### Sublime Text 2 - Package Control
-
-Install via package control: http://wbond.net/sublime_packages/community Search for **JavaScript Snippets** or typically the keywords **js** or **javascript** are suitable.
-
-
 ### Mac OS X
 
     git clone git://github.com/juliogc/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/JavaScript
