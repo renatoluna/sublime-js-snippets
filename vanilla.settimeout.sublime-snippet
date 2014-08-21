@@ -3,7 +3,7 @@
 	${2:// body...}
 }, ${1:millis});
 ]]></content>
-    <tabTrigger>sto</tabTrigger>
+    <tabTrigger>setTimeout</tabTrigger>
     <scope>source.js</scope>
     <description>setTimeout</description>
 </snippet>
