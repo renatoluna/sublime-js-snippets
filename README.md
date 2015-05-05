@@ -5,7 +5,7 @@ Install
 -------
 ### Mac OS X
 
-    git clone git://github.com/juliogc/sublime-js-snippets.git ~/Library/Application Support/Sublime Text 2/Packages/JavaScript
+    git clone git://github.com/juliogc/sublime-js-snippets.git ~/Library/Application\ Support/Sublime\ Text 2/Packages/JavaScript
 
 
 ### Linux
